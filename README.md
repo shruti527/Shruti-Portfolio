@@ -1,4 +1,4 @@
-# Shruti Chedge — Portfolio (red1-for-hek inspired)
+# Shruti Chedge — Portfolio 
 
 Premium full-stack developer portfolio inspired by red1-for-hek.vercel.app
 
